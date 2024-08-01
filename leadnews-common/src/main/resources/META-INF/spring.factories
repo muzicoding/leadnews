@@ -1,0 +1,8 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.muzicoding.common.exception.ExceptionCatch, \
+  com.muzicoding.common.swagger.SwaggerConfiguration, \
+  com.muzicoding.common.swagger.Swagger2Configuration, \
+  com.muzicoding.common.aliyun.GreenImageScan, \
+  com.muzicoding.common.aliyun.GreenTextScan, \
+  com.muzicoding.common.tess4j.Tess4jClient, \
+  com.muzicoding.common.redis.CacheService

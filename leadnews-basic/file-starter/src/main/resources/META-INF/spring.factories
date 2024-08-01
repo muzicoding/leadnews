@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.muzicoding.file.service.impl.MinIOFileStorageService
